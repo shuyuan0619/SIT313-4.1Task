@@ -1,0 +1,31 @@
+.end_form {
+  display: flex;
+  padding-left: 100px;
+  background: rgb(27, 177, 142);
+  height: 300px;
+  width: 1100px;
+}
+.end_form_2 {
+  margin-top: -25px;
+  background: rgb(27, 177, 142);
+  height: 70px;
+  width: 1200px;
+}
+.end_form_item {
+  flex: 33.33%;
+}
+.form_icon {
+  display: flex;
+}
+.Deakin {
+  display: flex;
+  justify-content: center;
+}
+.end_form_3 {
+  display: flex;
+  padding-left: 100px;
+  background: rgba(36, 53, 51, 0.347);
+  height: 100px;
+  width: 1100px;
+  font-weight: bold;
+}
